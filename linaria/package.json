@@ -23,6 +23,6 @@
     "typescript": "5.1.6"
   },
   "devDependencies": {
-    "next-with-linaria": "^0.5.1"
+    "next-with-linaria": "^1.0.0"
   }
 }
