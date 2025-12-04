@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@linaria/babel-preset": "^4.5.4",
+    "@linaria/babel-preset": "^5.0.0",
     "@linaria/core": "^4.5.4",
     "@linaria/react": "^4.5.4",
     "@types/node": "20.4.9",
